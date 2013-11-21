@@ -1,0 +1,236 @@
+
+        // big things et al.
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html,body{
+    height:100%;
+    background: url('/img/black_board.jpg')center fixed;
+    background-size: cover;
+    margin-bottom: 0px;
+}
+body{
+    // height: 100%;
+}
+.pure-g > div {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.l-box {
+    padding: 1em;
+}
+.l-centered{
+    text-align: center;
+}
+.container{
+    margin: 0 auto;
+    background:rgba(255,255,255,1);
+    margin-top: 10%;
+}
+
+        // header - first parts
+
+.topheadline {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    font-size: 125px;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+.header_img{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    // margin: 0 auto;
+}
+
+.starter{
+    border-bottom:5px #ECD961 dotted;
+}
+
+//header links
+.h-b{
+        background: #ECD961;
+        color:white;
+        line-height: 2.0;
+        margin-bottom: 75px;
+}
+
+.header_link{
+    text-align: center;
+}
+
+.article_content{
+    text-align: left;
+    font-size: 14px;
+    width: 800px;
+    padding-left: 50px;
+    line-height: 25px;
+}
+
+    // different sections of blog
+.one{
+    border-right:1px #ECD961 dotted;
+    border-bottom:1px #ECD961 dotted;
+    margin-bottom: 75px;
+}
+.two{
+    border-left:2px #ECD961 dotted ;
+    border-bottom:5px #ECD961 dotted;
+    margin-bottom: 75px;
+}
+
+.three{
+    border-right: 3px #ECD961 dotted;
+    margin-bottom: 75px;
+}
+
+.four{
+    border-top:3px #ECD961 dotted;
+    border-left:3px #ECD961 dotted;
+    margin-bottom: 75px;
+}
+
+    // icons in diff sections
+
+.fa-trophy{
+    font-size: 35px;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: #ECD961;
+    border-radius: 50%;
+    padding-top: 8px;
+    color: #AECFC8;
+}
+
+.fa-camera{
+    font-size: 30px;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: #ECD961;
+    border-radius: 50%;
+    padding-top: 10px;
+    color: white;
+}
+
+.fa-book{
+    font-size: 30px;
+    background: #ECD961;
+    border-radius: 50%;
+    padding-top: 8px;
+    color: white;
+    width: 50px;
+    height: 50px;
+}
+
+.fa-quote-left{
+    font-size: 25px;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: #ECD961;
+    border-radius: 50%;
+    padding-top: 12px;
+    // padding-left: 2px;
+    margin-left: 27px;
+    color: white;
+}
+.fa-video-camera{
+    font-size: 30px;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: #ECD961;
+    border-radius: 50%;
+    padding-top: 10px;
+    padding-left: 3px;
+    color: white;
+
+}
+
+    //diff headlines...need to add classes to other headlines
+.one_headline{
+    margin: 0 auto;
+    width: 400px;
+    display: block;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+
+//second section image and text
+.two_img{
+    width: 850px;
+    margin: 0 auto;
+}
+
+.img_text{
+    padding-top: 70px;
+}
+
+//third section quotes and shit
+blockquote{
+    font-size: 60px;
+    font-style: italic;
+}
+
+// Article Footer
+
+.afooter {
+    font-size: 12px;
+    color: grey;
+    font-family: 'Open Sans', sans-serif;
+    }
+
+// Article Styling
+
+.videopost {
+    padding-top: 20px;
+}
+
+.quotepost {
+    padding-top: 20px;
+}
+
+.photopost {
+    padding-top: 20px;
+}
+
+.articlepost {
+    padding-top: 20px;
+}
+
+.authorquote {
+    padding-left: 150px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.topsubhead {
+    padding-top: 15px;
+    padding-bottom: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
